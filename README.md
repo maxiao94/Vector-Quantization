@@ -9,8 +9,11 @@ The image files correspond to the 3 examples at the bottom of the script. For ea
 
 For the coloring scheme, one must input an iterable of colors to be used; this can be a string (like 'rbg') or normalized instances from a colormap. 
 
+Python 3.5.2
+
 Module Versions used:
 
-> numpy==1.15.0
+--> numpy==1.15.0
 
-> matplotlib==2.2.2
+--> matplotlib==2.2.2
+
