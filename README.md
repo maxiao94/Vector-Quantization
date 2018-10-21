@@ -11,6 +11,6 @@ For the coloring scheme, one must input an iterable of colors to be used; this c
 
 Module Versions used:
 
->> numpy==1.15.0
+> numpy==1.15.0
 
->> matplotlib==2.2.2
+> matplotlib==2.2.2
